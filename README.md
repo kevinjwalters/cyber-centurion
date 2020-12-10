@@ -1,3 +1,3 @@
-# Cyber Centurion (Cyber Patriot) Notes
+# CyberCenturion (Cyber Patriot) Notes
 
 All the [content is on wiki](../../wiki)
